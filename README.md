@@ -1,26 +1,20 @@
-#  Hi, I'm Jyoti Nehara
+<div align="center">
 
-<p align="center">
-  <b>Full Stack Developer | Java & Spring Boot | Frontend Enthusiast</b>
-</p>
+# Hi, I'm Jyoti Nehara
 
-<p align="center">
+**Full Stack Developer | Java & Spring Boot | Frontend Enthusiast**
+
 I enjoy building clean, scalable web applications and learning new technologies.  
 Currently focused on strengthening my full-stack development and problem-solving skills.
-</p>
 
-<p align="center">
-  <a href="https://github.com/jyoti445gh">GitHub</a> •
- 
-  <a href="https://www.linkedin.com/">LinkedIn</a>
-</p>
+[GitHub](https://github.com/jyoti445gh) • [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-##  Skills & Technologies
+## Skills & Technologies
 
-###  Frontend
-<table>
+### Frontend
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>HTML</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
@@ -36,8 +30,8 @@ Currently focused on strengthening my full-stack development and problem-solving
 
 ---
 
-###  Backend
-<table>
+### Backend
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=spring" width="40"/><br>Spring Boot</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br>Node.js</td>
@@ -49,8 +43,8 @@ Currently focused on strengthening my full-stack development and problem-solving
 
 ---
 
-###  Programming Languages
-<table>
+### Programming Languages
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="40"/><br>C</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="40"/><br>C++</td>
@@ -63,7 +57,7 @@ Currently focused on strengthening my full-stack development and problem-solving
 ---
 
 ### 🛠️ Tools
-<table>
+<table align="center">
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
@@ -75,34 +69,11 @@ Currently focused on strengthening my full-stack development and problem-solving
 
 ---
 
-
-
----
-
-##  GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyoti445gh&show_icons=true&theme=tokyonight" />
-</p>
+## GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jyoti445gh&show_icons=true&theme=tokyonight" />
 
 ---
 
+Feel free to explore my repositories and connect with me!
 
-
----
-
- Feel free to explore my repositories and connect with me!
-
-<!--
-**jyoti445gh/jyoti445gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
